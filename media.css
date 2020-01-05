@@ -1,0 +1,20 @@
+body {
+  width: 100%;
+}
+
+.navbar {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.content {
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+}
+
+
+
+.home-icon {
+    width: 2rem;
+}

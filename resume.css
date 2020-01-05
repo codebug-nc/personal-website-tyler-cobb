@@ -1,0 +1,36 @@
+body {
+  width: 100%;
+}
+
+.navbar {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.content {
+	width: 90%;
+	margin-left: 5%;
+	margin-bottom: 10%;
+}
+
+
+
+.home-icon {
+	width: 2rem;
+}
+
+
+.resume {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.resume-item {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  margin: 1rem 1rem 1rem 1rem;
+}

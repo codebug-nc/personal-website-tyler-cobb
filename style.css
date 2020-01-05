@@ -1,0 +1,53 @@
+body {
+  background: url(images/soccer-cover.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+.navbar {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.home-icon {
+	width: 2rem;
+}
+
+.content {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.graduation-countdown {
+	color: lightgray;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 0;
+}
+
+.countdown-text {
+	font-size: 14px;
+}
+
+.graduation-countdown-label {
+	color: lightgray;
+	margin-right: 1rem;
+	font-size: 14px;
+}
+
+.name {
+	color: white;
+	font-size: 5em;
+	margin-bottom: 0;
+}
+
+.subheading {
+	color: white;
+	margin-bottom: 0;
+}
